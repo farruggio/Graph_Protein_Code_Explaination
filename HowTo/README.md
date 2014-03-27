@@ -5,7 +5,7 @@
 
 
 ----------------------
-![image](http://)
+![image](https://raw.githubusercontent.com/farruggio/Prova/master/HowTo/colora_checklist.png)
 
 The colora function search the mutated genes and painting them in red or green according to mutation's level.
    
@@ -34,7 +34,7 @@ The Checklist function check if one node is selected and paint it in yellow.
 This two function are called every time that an events change (for example clicking one node)
 
 -----------------------
-![image](http://)
+![image](https://raw.githubusercontent.com/farruggio/Prova/master/HowTo/find_neighbors.png)
 
 
 Them we have the function for find neighbors
@@ -73,7 +73,7 @@ Them we have the function for find neighbors
 	}
 	
 	
-![image](http://)	
+![image](https://raw.githubusercontent.com/farruggio/Prova/master/HowTo/find_second_nei.png)	
 	
 ------------------------
 
@@ -95,4 +95,4 @@ Finally the new Graph function
      
     }	
 
-![image](http://)
+![image](https://raw.githubusercontent.com/farruggio/Prova/master/HowTo/new_graph.png)
